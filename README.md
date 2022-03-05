@@ -3,7 +3,7 @@
 </div>  
  <br/>
 
-# <div align="center">I'm Ramprakash, a full-stack freelance developer 👨‍💻 🚀</div>  
+# <div align="center">I'm Ramprakash, a full-stack developer 👨‍💻 🚀</div>  
   <br/>
 
 - 🔭 I’m currently working on Skills  
@@ -62,11 +62,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 </div>
 </td></tr></table>  
-<br/>  
-<br/>
-<div align="center">
-<img src="https://bloggingcoder.com/images/categories/mern.jpg" align="center" style="width: 100%; height:70% " />
-</div>  
 <br/>  
 <br/>
 
